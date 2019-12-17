@@ -83,7 +83,7 @@ while True:
     print(mental_command) 
      
     if(thought == 'push'):
-        url_get = 'http://192.168.43.198:5000/forward'
+        url_get = 'http://192.168.43.198:5000/forward' # Use the ip address of the raspberry pi board.
         res = requests.get(url_get)   
     elif(thought == 'left'):
         url_get = 'http://192.168.43.198:5000/pivot_left'
