@@ -1,3 +1,4 @@
+#Run this code on the computer which is running the Emotiv Cortex app.
 import json
 from websocket import create_connection
 import ssl
