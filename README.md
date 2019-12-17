@@ -9,5 +9,7 @@ In the future, I would like to use signal processing tools to convert the raw EE
 
 Requirements:
 
-* Python3.
+* Python 3.
 * Raspberry pi 3.
+* Emotiv Insight.
+* Rover
