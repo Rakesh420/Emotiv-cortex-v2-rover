@@ -9,5 +9,5 @@ In the future, I would like to use signal processing tools to convert the raw EE
 
 Requirements:
 
-1.Python3.
-2.Raspberry pi 3.
+* Python3.
+* Raspberry pi 3.
