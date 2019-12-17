@@ -9,8 +9,5 @@ In the future, I would like to use signal processing tools to convert the raw EE
 
 Requirements:
 
-Python 3
-Parrot drone
-Muse
-Android phone
-Android Studio
+1.Python3.
+2.Raspberry pi 3.
