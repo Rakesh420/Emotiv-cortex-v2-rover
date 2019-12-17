@@ -18,4 +18,4 @@ How to run the rover:
 
 * Connect the Emotiv Insight to the EMOTIV app and open up the EMOTIV BCI app.
 * Run the EEG_Main.py on the compter which is running the Emotiv Cortex App.
-* Run the rover.py on the Raspberry pi which also used to run the flask server.
+* Run the rover.py on the Raspberry pi which is also used to run the flask server.
