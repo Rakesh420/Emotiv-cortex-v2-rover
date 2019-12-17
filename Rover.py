@@ -5,7 +5,6 @@ import time
 gpio.setwarnings(False)
 
 app = Flask(__name__)
-tf=0.8
 # Function to initialise the gpio channels
 def init():
     gpio.setmode(gpio.BCM)
@@ -32,9 +31,6 @@ def pivot_right():
     gpio.output(26,False)
     gpio.output(22,False)
     gpio.output(21,True)
-    time.sleep(tf)
-    gpio.cleanup()
-    
     return 'pivoted right'
 
 # Pivot rover to the left
