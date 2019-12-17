@@ -1,2 +1,3 @@
 # Emotiv-cortex-v2-rover
 Controlling a rover with mental commands using Emotiv Insight.
+![Image of Yaktocat](https://camo.githubusercontent.com/652813c2717c0f845483367d278abd2d66329f26/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a7548337633783672436a6c2d5f69594f6272564c68672e6a706567)
