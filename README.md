@@ -5,7 +5,7 @@ A Brain-Computer Interface implementation to control a rover with real time EEG 
 
 Using an EEG acquisition device - Emotiv Insight to read the brain signals. The official Emotiv BCI software is used to train and classify mental commands. 
 
-In the future, I would like to use signal processing tools to convert the raw EEG time domain data into frequency domain. We can then access the mental activity of the user(i.e. attentive, relaxed, tensed) using the frequency domain singals.
+In the future, I would like to use signal processing tools to convert the raw EEG time domain data into frequency domain. We can then assess the mental activity of the user(i.e. attentive, relaxed, tensed) using the frequency domain singals.
 
 Requirements:
 
